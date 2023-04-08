@@ -2,7 +2,7 @@
 Projet de Data science qui vise à améliorer l'ingénierie des caractéristiques et la classification, en se basant sur l'ensemble de données du recensement des revenus. Ce projet utilisera cet ensemble de données comme étude de cas.
 
 ### Description du Projet
-Dans ce projet, nous analysons les données d'un recensement américain provenant du [UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Census+Income). **Le but de ce projet est de créer un profil des individus à revenu excedant 50.000 dollars à l'aide de l'ensemble de données mentionné en utilisant les attributs démographiques disponibles.**
+Dans ce projet, nous analysons les données d'un recensement américain provenant du [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Census+Income). **Le but de ce projet est de créer un profil des individus à revenu excedant 50.000 dollars à l'aide de l'ensemble de données mentionné en utilisant les attributs démographiques disponibles.**
 
 ### Data
 
