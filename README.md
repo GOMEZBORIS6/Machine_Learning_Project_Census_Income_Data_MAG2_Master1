@@ -29,6 +29,14 @@ Dans ce projet, nous analysons les données d'un recensement américain provenan
 **Target**
 - `income`: Income Class (<=50K, >50K)  
 
+**Algorithmes Utilisés**
+- `Logistic Regression (LR)`
+- `Support Vector Machine(SVM)`
+- `Decision Tree Classifier`
+- `K-Nearest Neighbors Classifier`
+- `Gradient Boosting Classifier`
+- `Random Forest Classifier`
+
 
 
 
